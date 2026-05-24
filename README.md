@@ -7,7 +7,7 @@
 
 ---
 
-A collection of projects developed throughout my university studies in Data Science — ranging from machine learning and statistical modeling to data visualization and software development. Each project includes source code, datasets (where applicable), and a written report.
+A collection of projects developed throughout my university studies in Data Science; ranging from machine learning and statistical modeling to data visualization and software development. Each project includes source code, datasets (where applicable), and a written report.
 
 **Languages & Tools:** Python · R · C++ · SQL · Jupyter · RapidMiner · Power BI
 
